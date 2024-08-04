@@ -76,3 +76,7 @@ git clone https://github.com/AmrEssamYoussef/Distance-Measurement-System-Using-U
 Build the Project: Follow your IDE/compiler instructions to build and upload the code to the ATmega16 microcontroller.
 Connect the Hardware: Ensure all components are connected as per the specifications.
 Run the System: Power up the system and observe the distance measurement displayed on the LCD.
+
+
+Video Demonstration
+For a visual demonstration of the project, check this video https://drive.google.com/file/d/1o3U3myUzDMyPFt8XtEXLWewkjuv82MoH/view?usp=sharing.
